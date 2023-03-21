@@ -1,0 +1,87 @@
+
+
+## 配置
+文件夹下可以放置一个\_category\_.js文件配置文件夹
+```js
+{
+配置标签
+  "label": "Tutorial - Extras",
+位置
+  "position": 3,
+生成链接，有这个文件夹变得可点击还可以生成导航
+  "link": {
+    "type": "generated-index",
+    "description": "5 minutes to learn the most important Docusaurus concepts."
+  }
+}
+```
+
+## 文档
+yaml配置，要遵循yaml语法
+```js
+---
+排序
+sidebar_position: 1
+id: my-doc-id
+title: My document title
+description: My document description
+slug: /my-custom-url路由
+---
+```
+
+代码标题
+```js title="docusaurus.config.js"
+代码高光
+        // highlight-start
+        {
+          type: 'docsVersionDropdown',
+        },
+        // highlight-end
+```
+
+
+```js
+`<!--truncate-->`将前面所有内容作为摘要。
+
+`##` 设置井号（少于四个）标题显示在侧边栏中。
+
+`{#custom-id}` 插值语法
+```
+:::caution
+
+In development, you can only use one locale at a same time.
+
+:::
+:::tip My tip
+
+Use this awesome feature option
+
+:::
+
+:::danger Take care
+
+This action is dangerous
+
+:::
+
+
+
+export const Highlight = ({ children, color }) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '20px',
+      color: '#fff',
+      padding: '10px',
+      cursor: 'pointer',
+    }}
+    onClick={() => {
+      {/* alert(`You clicked the color ${color} with label ${children}`); */}
+      alert(`恭喜你${children}满满buff ！`)
+    }}>
+    {children}
+  </span>
+);
+
+<Highlight color = "#25c2a0">获得好运</Highlight><br/><br/>
+<Highlight color = "#1877F2">考试顺利</Highlight>

@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  staticDirectories: ['static', 'dailylearning/static'],
-  title: '前端每日笔记',
+  staticDirectories: ['static', 'myblogs/static'],
+  title: '初级前端笔记',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://avatars.githubusercontent.com/u/94268117',
 
   // Set the production url of your site here
   url: 'https://tqblogs.netlify.app',
@@ -39,23 +39,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: 'dailylearning/docs',
+          path: 'myblogs/docs',
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
-          path: 'dailylearning/blog',
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -69,21 +60,21 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'Welcome to my blogs!',
+        // logo: {
+        //   alt: 'My Site Logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
+          // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/tangqiang0605',
             label: 'GitHub',
             position: 'right',
           },
@@ -122,17 +113,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/tangqiang0605',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TangQiang Blogs, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
