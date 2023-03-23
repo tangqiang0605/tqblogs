@@ -6,30 +6,38 @@
       {
         "id": "92740a78646a9fa7",
         "type": "tabs",
+        "dimension": 13.793103448275861,
         "children": [
           {
-            "id": "bf2631699df59b63",
+            "id": "58ad1569b1bd17da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "docs/intro.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Docusaurus/编写博客工作流.md"
               }
-            }
-          },
+            },
+            "group": "56600046489b9e44"
+          }
+        ]
+      },
+      {
+        "id": "0907dd2e789fbcfd",
+        "type": "tabs",
+        "dimension": 86.20689655172413,
+        "children": [
           {
             "id": "aa357bf4de925a0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/浏览器请求过程.md",
+                "file": "docs/Docusaurus/编写博客工作流.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "56600046489b9e44"
           },
           {
             "id": "5cad7351833c804b",
@@ -39,8 +47,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/浏览器请求过程.md",
+                "file": "docs/Docusaurus/编写博客工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/浏览器请求过程.md",
+                "file": "docs/Docusaurus/编写博客工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/浏览器请求过程.md"
+                "file": "docs/Docusaurus/编写博客工作流.md"
               }
             }
           }
@@ -169,28 +176,29 @@
   },
   "active": "aa357bf4de925a0f",
   "lastOpenFiles": [
+    "docs/intro.md",
+    "docs/intro.mdx",
     "docs/浏览器请求过程.md",
+    "docs/Docusaurus/编写博客工作流.md",
+    "docs/Docusaurus/文档语法参考.mdx",
+    "docs/Docusaurus/_category_.json",
+    "docs/Docusaurus",
+    "docs/docusaurus/_category_.json",
+    "docs/docusaurus/_category_.js",
+    "docs/docusaurus/文档语法参考.mdx",
+    "docs/docusaurus",
     "static/img/Pasted image 20230322142747.png",
     "static/img",
     "static",
-    "未命名",
-    "docs/intro.md",
     "docs/tutorial-extras/img/localeDropdown.png",
     "docs/tutorial-extras/img/docsVersionDropdown.png",
-    "docs/tutorial-extras/img",
-    "docs/tutorial-extras/_category_.json",
     "docs/tutorial-extras/translate-your-site.md",
     "docs/tutorial-extras/manage-docs-versions.md",
-    "docs/tutorial-extras",
-    "docs/tutorial-basics/_category_.json",
-    "docs/tutorial-basics/markdown-features.mdx",
     "docs/tutorial-basics/deploy-your-site.md",
     "docs/tutorial-basics/create-a-page.md",
     "docs/tutorial-basics/create-a-document.md",
     "docs/tutorial-basics/create-a-blog-post.md",
     "docs/tutorial-basics/congratulations.md",
-    "docs/tutorial-basics",
-    "blog/hello,my blog.md",
-    "static/img"
+    "blog/hello,my blog.md"
   ]
 }
