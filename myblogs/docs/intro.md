@@ -1,11 +1,13 @@
 ---
-# title: 页
+# title: 首页
 sidebar_position: 1
 slug: /
 ---
 
-# 首页
+# 首页🌸
 
-不知道写点什么，先放个头像吧哈哈
+欢迎！👋
 
-![image-20230321231824349](https://avatars.githubusercontent.com/u/94268117)
+我正在学习前端的知识，不定时更新我的笔记。
+
+推荐使用电脑浏览器访问，可以获得更好的浏览体验。
