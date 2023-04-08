@@ -29,6 +29,8 @@ HTML 中，无需在一个空元素的标签末尾添加 `/`，例如 `<img sr
 
 HTML 标签不区分大小写。不过，从一致性、可读性来说，最好仅使用小写字母。
 
+替换元素：像 [`<img>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/img) 和 [`<video>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/video) 这样的元素有时被称之为**替换元素**，因为这样的元素的内容和尺寸由外部资源（像是一个图片或视频文件）所定义，而不是元素自身。
+
 我们要敬畏语义，做到**正确选用元素**。不要使用标题元素来加大、加粗字体，因为标题对于 [无障碍访问](https://developer.mozilla.org/zh-CN/docs/Learn/Accessibility) 和 [搜索引擎优化](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#%e4%b8%ba%e4%bb%80%e4%b9%88%e6%88%91%e4%bb%ac%e9%9c%80%e8%a6%81%e7%bb%93%e6%9e%84%e5%8c%96%ef%bc%9f) 等问题非常有意义。要保持页面结构清晰，标题整洁，不要发生标题级别跳跃。
 
 一个块级元素不会嵌套在一个内联元素里面，但它可能嵌套在另一个块级元素里面。 在这篇文章中提到的“块”和“内联”，不应该与 [CSS 盒子的类型](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/The_box_model#%E5%9D%97%E7%BA%A7%E7%9B%92%E5%AD%90%EF%BC%88block_box%EF%BC%89_%E5%92%8C_%E5%86%85%E8%81%94%E7%9B%92%E5%AD%90%EF%BC%88inline_box%EF%BC%89)中的同名术语相混淆。尽管它们默认是相关的，但改变 CSS 显示类型并不会改变元素的**分类**，也不会影响它可以包含和被包含于哪些元素。防止这种混淆也是 HTML5 摒弃这些术语的原因之一。

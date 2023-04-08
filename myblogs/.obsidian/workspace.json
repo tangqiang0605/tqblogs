@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4c4c2a31dc1027c5",
+        "id": "243600d40ad6d62c",
         "type": "tabs",
         "children": [
           {
-            "id": "1dff1d53caea0bee",
+            "id": "17291c4beae7c1fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/intro.mdx",
+                "file": "docs/基础/Web/Web基础.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdd67f683dcb7a6e",
+            "id": "80b58dced16a4691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/基础/Web/Web基础.md",
+                "file": "docs/基础/Web/HTTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0a5136f24ebe97ab",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/基础/Web/Web基础.md",
+                "file": "docs/基础/Web/HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/基础/Web/Web基础.md",
+                "file": "docs/基础/Web/HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/基础/Web/Web基础.md"
+                "file": "docs/基础/Web/HTTPS.md"
               }
             }
           }
@@ -159,53 +159,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d266daa5fbc9bd60",
+  "active": "80b58dced16a4691",
   "lastOpenFiles": [
-    "draft/基础/Web/无障碍.md",
+    "draft/Web安全入门.md",
+    "docs/基础/Web/HTTPS.md",
+    "docs/基础/Web/Web基础.md",
+    "draft/基础/Web/前端冷知识.md",
+    "draft/框架/jQuery.md",
+    "draft/基础/Web/请求原理.md",
+    "draft/SEO.md",
+    "draft/面试/大纲.md",
+    "draft/面试",
+    "draft/日志/bilin接口.md",
+    "draft/课内/虚拟机.md",
+    "draft/课内/数据库.md",
+    "draft/基础/JavaScript/文件处理.md",
+    "draft/课内",
+    "draft/框架/vue基础.md",
+    "static/img/Pasted image 20230331195833.png",
+    "draft/日志/方案.md",
+    "draft/日志/0326.md",
+    "static/img/Pasted image 20230331160736.png",
+    "draft/基础/HTML/页面嵌入技术.md",
+    "docs/基础/HTML/HTML基础.md",
+    "draft/基础/Web/请求.md",
+    "draft/基础/JavaScript/Web API/未命名.md",
+    "draft/功能/安全",
+    "draft/功能/路由.md",
+    "draft/基础/JavaScript/Web API/DOM API.md",
     "draft/基础/Web/开发者工具.md",
-    "draft/基础/CSS/css基础.md",
+    "draft/功能/工程化/部署.md",
+    "draft/基础/Web/请求",
+    "draft/基础/JavaScript/Web API/webApi.md",
+    "draft/基础/JavaScript/Web API/Web API.md",
+    "draft/基础/JavaScript/动画.md",
+    "draft/基础/JavaScript/基础",
+    "draft/功能",
     "docs/基础/Javascript",
     "docs/基础/CSS",
     "docs/基础/Web",
     "docs/框架/Docusaurus",
-    "docs/框架/vue",
-    "docs/框架",
-    "draft/基础/JavaScript/JavaScript基础.md",
-    "draft/基础/HTML/canvas.md",
-    "draft/基础/HTML/语义化与无障碍.md",
-    "draft/基础/HTML/页面嵌入技术.md",
-    "draft/基础/HTML/表单.md",
-    "docs/基础/HTML/HTML基础.md",
-    "docs/intro.mdx",
-    "docs/基础/HTML",
-    "docs/基础",
-    "draft/工具/笔记.md",
     "static/img/Pasted image 20230330105813.png",
-    "draft/工具",
-    "docs/未命名.md",
-    "draft/日志/0326.md",
-    "draft/日志/方案.md",
-    "docs/包库/Pixi.js.md",
-    "draft/包库/Pixi.js.md",
-    "draft/包库/Day.js.md",
-    "docs/包库/Day.js.md",
-    "docs/基础/Web/前端冷知识.md",
-    "docs/基础/JavaScript/动画.md",
-    "docs/基础/HTML/canvas.md",
-    "docs/基础/JavaScript/时间.md",
-    "docs/基础/JavaScript/日期 1.md",
-    "docs/基础/JavaScript/日期.md",
-    "docs/基础/JavaScript/字符串.md",
-    "docs/基础/JavaScript/数组.md",
-    "docs/基础/Web/浏览器请求过程.md",
     "static/img/Pasted image 20230327193631.png",
     "static/img/Pasted image 20230327171610.png",
     "static/img/Pasted image 20230327171114.png",
     "static/img/Pasted image 20230327171030.png",
     "static/img/Pasted image 20230326171402.png",
     "static/img/Pasted image 20230326170248.png",
-    "static/img/Pasted image 20230324180200.png",
-    "static/img/Pasted image 20230322142747.png",
-    "docs/tutorial-extras/img/localeDropdown.png"
+    "static/img/Pasted image 20230324180200.png"
   ]
 }
