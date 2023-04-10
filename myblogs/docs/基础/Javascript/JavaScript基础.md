@@ -1,6 +1,6 @@
 ## 介绍
 JavaScript 是一种脚本，一门编程语言，它可以在网页上实现复杂的功能，网页展现给你的不再是简单的静态信息，而是实时的内容更新，交互式的地图，2D/3D 动画，滚动播放的视频等等。它是标准 Web 技术蛋糕的第三层。
-![[Pasted image 20230327171114.png]]
+![](../static/img/Pasted image 20230327171114.png)
 
 
 JavaScript 相当简洁，却非常灵活。开发者们基于 JavaScript 核心编写了大量实用工具，可以使开发工作事半功倍。其中包括：
@@ -26,7 +26,7 @@ JavaScript 相当简洁，却非常灵活。开发者们基于 JavaScript 核心
 我们将 \<script\> 放在 HTML 文件的底部附近的原因是浏览器会按照代码在文件中的顺序加载 HTML。如果先加载的 JavaScript 期望修改其下方的 HTML，那么它可能由于 HTML 尚未被加载而失效。因此，将 JavaScript 代码放在 HTML 页面的底部附近通常是最好的策略。
 
 在 HTML 和 CSS 集合组装成一个网页后，浏览器的 JavaScript 引擎将执行 JavaScript 代码。这保证了当 JavaScript 开始运行之前，网页的结构和样式已经就位。
-![[Pasted image 20230327171610.png]]
+![](../static/img/Pasted image 20230327171610.png)
 
 
 引入策略

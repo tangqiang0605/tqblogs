@@ -109,7 +109,8 @@ description 和 title 标签将被使用在搜索引擎显示的结果页中。
 许多 `<meta>` 特性已经不再使用。例如，keyword `<meta>` 元素已经被搜索引擎忽略了，因为作弊者填充了大量关键词到 keyword，错误地引导搜索结果。
 
 在谷歌搜索里，在主页面链接下面，你将看到一些相关子页面——这些是站点链接，可以在 [Google's webmaster tools](https://search.google.com/search-console/about) 配置——这是一种可以使你的站点对搜索引擎更友好的方式:
-![[Pasted image 20230326171402.png]]
+
+![](../static/img/Pasted image 20230326171402.png)
 
 当你在网站上查看源码时，你也会发现其他类型的元数据。旨在向某个网站提供可使用的特定信息。例如，Facebook 的元数据协议 [Open Graph Data](https://ogp.me/) 和 Twitter 的专有元数据协议 [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards) 为网站提供了更丰富的元数据。当网站的 URL 显示在 twitter.com 上时，它具有特殊的展示的效果。
 
