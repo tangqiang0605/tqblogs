@@ -8,31 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17291c4beae7c1fc",
+            "id": "8dc2740de3f53b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/基础/Web/Web基础.md",
+                "file": "draft/前端发展简史.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80b58dced16a4691",
+            "id": "803969bd17ebd94b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/基础/Web/HTTPS.md",
+                "file": "draft/路由.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a031f9c2eca8c7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/单元测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "561fdf3f7bc4c5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/基础/JavaScript/ESM陷阱.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/基础/Web/HTTPS.md",
+                "file": "docs/基础/JavaScript/ESM陷阱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/基础/Web/HTTPS.md",
+                "file": "docs/基础/JavaScript/ESM陷阱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +157,17 @@
             }
           },
           {
-            "id": "0301a07e420be02d",
+            "id": "b5e4100800aab4cf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/基础/Web/HTTPS.md"
+                "file": "docs/基础/JavaScript/ESM陷阱.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,49 +181,50 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80b58dced16a4691",
+  "active": "d266daa5fbc9bd60",
   "lastOpenFiles": [
-    "draft/Web安全入门.md",
-    "docs/基础/Web/HTTPS.md",
-    "docs/基础/Web/Web基础.md",
-    "draft/基础/Web/前端冷知识.md",
-    "draft/框架/jQuery.md",
-    "draft/基础/Web/请求原理.md",
-    "draft/SEO.md",
-    "draft/面试/大纲.md",
-    "draft/面试",
-    "draft/日志/bilin接口.md",
-    "draft/课内/虚拟机.md",
-    "draft/课内/数据库.md",
-    "draft/基础/JavaScript/文件处理.md",
-    "draft/课内",
+    "docs/基础/JavaScript/JavaScript基础.md",
+    "docs/基础/JavaScript/ESM陷阱.md",
+    "docs/效率/笔记.md",
+    "draft/前端优化.md",
+    "draft/路由.md",
+    "draft/未命名.md",
+    "draft/单元测试.md",
+    "Pasted image 20230302131020.png.md",
+    "docs/基础/JavaScript/时间.md",
+    "docs/前端",
+    "docs/工程化",
+    "draft/前端发展简史.md",
+    "docs/框架/Docusaurus/文档语法参考.mdx",
+    "draft/编写博客工作流.md",
     "draft/框架/vue基础.md",
-    "static/img/Pasted image 20230331195833.png",
-    "draft/日志/方案.md",
-    "draft/日志/0326.md",
-    "static/img/Pasted image 20230331160736.png",
-    "draft/基础/HTML/页面嵌入技术.md",
-    "docs/基础/HTML/HTML基础.md",
-    "draft/基础/Web/请求.md",
-    "draft/基础/JavaScript/Web API/未命名.md",
-    "draft/功能/安全",
-    "draft/功能/路由.md",
-    "draft/基础/JavaScript/Web API/DOM API.md",
-    "draft/基础/Web/开发者工具.md",
+    "docs/基础/Web/浏览器调试.md",
+    "docs/基础/Web/Web基础.md",
+    "draft/Web安全入门.md",
+    "draft/SEO.md",
+    "docs/框架/jQuery.md",
     "draft/功能/工程化/部署.md",
-    "draft/基础/Web/请求",
-    "draft/基础/JavaScript/Web API/webApi.md",
-    "draft/基础/JavaScript/Web API/Web API.md",
-    "draft/基础/JavaScript/动画.md",
-    "draft/基础/JavaScript/基础",
-    "draft/功能",
-    "docs/基础/Javascript",
-    "docs/基础/CSS",
+    "draft/基础/CSS/字体.md",
+    "docs/基础/CSS/移除默认css行为.md",
+    "docs/效率",
+    "docs/基础/_category_.json",
+    "docs/基础/安全/HTTPS.md",
+    "docs/框架/vue/computed方法.md",
     "docs/基础/Web",
-    "docs/框架/Docusaurus",
+    "docs/基础/CSS/css基础.md",
+    "draft/基础/JavaScript/基础/字符串.md",
+    "draft/基础/JavaScript/基础/数组.md",
+    "draft/基础/JavaScript/基础/变量.md",
+    "docs/包库",
+    "draft/b站收藏",
+    "docs/intro.mdx",
+    "docs/基础/优化",
+    "static/img/Pasted image 20230331195833.png",
+    "static/img/Pasted image 20230331160736.png",
     "static/img/Pasted image 20230330105813.png",
     "static/img/Pasted image 20230327193631.png",
     "static/img/Pasted image 20230327171610.png",
