@@ -1,4 +1,6 @@
 {
   "attachmentFolderPath": "static/img",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

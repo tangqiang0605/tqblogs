@@ -4,57 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "243600d40ad6d62c",
+        "id": "8f5c5dae6c752e78",
         "type": "tabs",
+        "dimension": 48.559999999999995,
         "children": [
           {
-            "id": "8dc2740de3f53b41",
+            "id": "8d69fbd4a3bd6c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/前端发展简史.md",
+                "file": "docs/工具/git/Git实践记录.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "803969bd17ebd94b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft/路由.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a031f9c2eca8c7d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft/单元测试.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "561fdf3f7bc4c5a4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "static/img/Pasted image 20230327171030.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "788b83be4b8c30f6",
+        "type": "tabs",
+        "dimension": 51.44,
+        "children": [
+          {
+            "id": "ebdb65f357f0ad31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/工程化/框架/vue/样式/【css】使用Animate.css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/img/Pasted image 20230327171030.png",
+                "file": "docs/工程化/框架/vue/样式/【css】使用Animate.css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/img/Pasted image 20230327171030.png",
+                "file": "docs/工程化/框架/vue/样式/【css】使用Animate.css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +145,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/img/Pasted image 20230327171030.png"
+                "file": "docs/工程化/框架/vue/样式/【css】使用Animate.css.md"
               }
+            }
+          },
+          {
+            "id": "6445903f81ad5e09",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,53 +176,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "561fdf3f7bc4c5a4",
+  "active": "ebdb65f357f0ad31",
   "lastOpenFiles": [
-    "static/img/Pasted image 20230326171402.png",
-    "static/img/Pasted image 20230326170248.png",
-    "static/img/Pasted image 20230324180200.png",
-    "static/img/Pasted image 20230322142747.png",
-    "docs/基础/HTML/HTML基础.md",
-    "static/img/Pasted image 20230327171030.png",
-    "static/img/Pasted image 20230327171610.png",
-    "static/img/Pasted image 20230327193631.png",
-    "static/img/Pasted image 20230330105813.png",
-    "docs/intro.mdx",
-    "static/img/1ce46ed56c4da577b12fd626084c8e8 1.jpg",
-    "static/img/1ce46ed56c4da577b12fd626084c8e8.jpg",
-    "img/static1ce46ed56c4da577b12fd626084c8e8.jpg.md",
-    "img",
-    "docs/image-20230410222419578.png",
-    "docs/未命名.md",
-    "docs/基础/Web/Web基础.md",
-    "docs/基础/JavaScript/ESM陷阱.md",
-    "docs/基础/JavaScript/JavaScript基础.md",
-    "docs/效率/笔记.md",
-    "draft/前端优化.md",
-    "draft/路由.md",
-    "draft/未命名.md",
-    "draft/单元测试.md",
-    "Pasted image 20230302131020.png.md",
-    "docs/基础/JavaScript/时间.md",
-    "docs/前端",
-    "docs/工程化",
-    "draft/前端发展简史.md",
-    "docs/框架/Docusaurus/文档语法参考.mdx",
-    "draft/编写博客工作流.md",
-    "draft/框架/vue基础.md",
-    "docs/基础/Web/浏览器调试.md",
-    "draft/Web安全入门.md",
-    "draft/SEO.md",
-    "docs/框架/jQuery.md",
-    "draft/功能/工程化/部署.md",
-    "draft/基础/CSS/字体.md",
-    "docs/基础/CSS/移除默认css行为.md",
-    "docs/效率",
-    "docs/基础/_category_.json",
-    "docs/基础/安全/HTTPS.md",
-    "docs/框架/vue/computed方法.md",
-    "docs/基础/Web",
-    "docs/包库",
-    "draft/b站收藏"
+    "docs/工程化/框架/vue/样式/【css】使用daisyUI.md",
+    "docs/工程化/框架/vue/样式/【vue3】使用chart.js.md",
+    "docs/工程化/框架/vue/样式/【vue3】使用canvas.md",
+    "docs/工程化/框架/vue/样式/【vue2】element-ui.md",
+    "docs/工程化/框架/vue/样式/【css】使用Swiper.md",
+    "docs/工程化/框架/vue/vue3小满.md",
+    "docs/工程化/框架/react/react.md",
+    "docs/工程化/构建工具/vite/vite配置.md",
+    "docs/基础/Web/前端.md",
+    "docs/基础/Web/前端 1.md",
+    "docs/基本功/JavaScript/前端.md",
+    "docs/基本功/JavaScript/js效果.md",
+    "docs/基本功/CSS/已整理/【css】布局.md",
+    "docs/基本功/CSS/html表单.md",
+    "docs/基本功/HTML/表单.md",
+    "docs/基本功/JavaScript/正则表达式.md",
+    "docs/基本功/JavaScript/js正则表达式.md",
+    "docs/基本功/JavaScript/类.md",
+    "docs/基本功/JavaScript/【vue3】使用chart.js.md",
+    "docs/基本功/JavaScript/未命名.md",
+    "docs/基础/Web/大纲.md",
+    "docs/工具/vscode.md",
+    "docs/工具/cmd.md",
+    "docs/工具/一些技巧.md",
+    "docs/工具/效率工具.md",
+    "docs/工具/obsidian/obsidian.md",
+    "docs/工程化/框架/vue/img/image-20220927115032043.png",
+    "docs/工程化/框架/vue/img/Pasted image 20230307221812.png",
+    "docs/工程化/框架/Docusaurus/文档语法参考.mdx",
+    "docs/工程化/搭建/手动配置",
+    "docs/单页面应用/状态管理",
+    "日志/项目",
+    "日志/项目/电路",
+    "static/image-20220924170724836.png",
+    "docs/基本功/工程/模块/img/Pasted image 20230307173142.png",
+    "docs/基本功/工程/模块/img/Pasted image 20230304084314.png",
+    "docs/单页面应用",
+    "static/image-20220924162412625.png",
+    "docs/工程化/框架/react",
+    "docs/单页面应用/业务",
+    "static/image-20220908084547692.png",
+    "static/image-20220908193153799.png",
+    "static/image-20220908194922766.png",
+    "static/img/Pasted image 20230313235109.png",
+    "docs/工具/vscode",
+    "日志/草稿"
   ]
 }

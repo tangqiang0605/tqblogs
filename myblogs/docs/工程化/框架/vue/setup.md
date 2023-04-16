@@ -1,0 +1,1 @@
+script 不用 setup 时，通过 export 暴露给 template。
