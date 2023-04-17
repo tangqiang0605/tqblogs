@@ -1,0 +1,1 @@
+git config lfs. https://github.com/tangqiang0606/tqblogs.git/info/lfs.locksverify false
